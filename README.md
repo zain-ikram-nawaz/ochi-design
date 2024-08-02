@@ -1,4 +1,4 @@
-#Ochi Design Clone
+# Ochi Design Clone
 
 Features
 Responsive Design: The clone is fully responsive and adapts to different screen sizes, maintaining the original design aesthetics.
