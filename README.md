@@ -29,6 +29,8 @@ This repository contains a clone of the Ochi Design website. The clone replicate
 You can view the cloned website by visiting the live demo link below:
 [https://ochi-final.vercel.app/]
 
+## Acknowledgments
+This project was created to practice and enhance my web development skills, focusing on real estate and property management platforms.
 
 
 
