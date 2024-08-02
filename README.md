@@ -1,6 +1,9 @@
 # Ochi Design Clone
 This repository contains a clone of the Ochi Design website. The clone replicates the original design closely, utilizing modern web technologies for both performance and aesthetics.
 
+
+
+
 ## Features
 ### Responsive Design:
 *  The clone is fully responsive and adjusts beautifully across various screen sizes.
@@ -10,6 +13,8 @@ This repository contains a clone of the Ochi Design website. The clone replicate
 *  Accurately replicates the intricate design elements and user interface interactions of the original Ochi Design.
 ### Clean Code: 
 * Organized and maintainable codebase, following best practices in HTML, CSS, and JavaScript.
+
+
 
 
 ## Technologies Used
@@ -22,7 +27,7 @@ This repository contains a clone of the Ochi Design website. The clone replicate
 
 ## How to View
 You can view the cloned website by visiting the live demo link below:
-Live Demo
+[https://ochi-final.vercel.app/]
 
 
 
