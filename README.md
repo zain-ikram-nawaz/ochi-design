@@ -1,3 +1,11 @@
+#Ochi Design Clone
+
+Features
+Responsive Design: The clone is fully responsive and adapts to different screen sizes, maintaining the original design aesthetics.
+Clean and Organized Code: The codebase is organized for easy readability and maintenance, following best practices in HTML, CSS, and JavaScript.
+Accurate Design Replication: All elements, from typography to layout, have been carefully replicated to match the original Ochi Design.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
