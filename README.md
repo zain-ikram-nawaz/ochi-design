@@ -1,9 +1,31 @@
 # Ochi Design Clone
+This repository contains a clone of the Ochi Design website. The clone replicates the original design closely, utilizing modern web technologies for both performance and aesthetics.
 
-Features
-Responsive Design: The clone is fully responsive and adapts to different screen sizes, maintaining the original design aesthetics.
-Clean and Organized Code: The codebase is organized for easy readability and maintenance, following best practices in HTML, CSS, and JavaScript.
-Accurate Design Replication: All elements, from typography to layout, have been carefully replicated to match the original Ochi Design.
+## Features
+### Responsive Design:
+*  The clone is fully responsive and adjusts beautifully across various screen sizes.
+### Smooth Scrolling and Animations :
+* Leveraged Locomotive for smooth scrolling and dynamic animations, enhancing the user experience.
+### Advanced UI/UX:
+*  Accurately replicates the intricate design elements and user interface interactions of the original Ochi Design.
+### Clean Code: 
+* Organized and maintainable codebase, following best practices in HTML, CSS, and JavaScript.
+
+
+## Technologies Used
+* HTML5
+* CSS3
+* Tailwind CSS
+* JavaScript (ES6)
+* Next.js
+* Locomotive Scroll
+
+## How to View
+You can view the cloned website by visiting the live demo link below:
+Live Demo
+
+
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
