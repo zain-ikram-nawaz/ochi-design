@@ -2,7 +2,7 @@
 This repository contains a clone of the Ochi Design website. The clone replicates the original design closely, utilizing modern web technologies for both performance and aesthetics.
 
 
-
+![ochi design](public/ochi.PNG)
 
 ## Features
 ### Responsive Design:
