@@ -14,6 +14,7 @@ This repository contains a clone of the Ochi Design website. The clone replicate
 ### Clean Code: 
 * Organized and maintainable codebase, following best practices in HTML, CSS, and JavaScript.
 
+![mob view](public/ochimob.PNG)
 
 
 
