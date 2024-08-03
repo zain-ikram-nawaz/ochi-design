@@ -6,7 +6,7 @@ import { MdArrowOutward } from "react-icons/md";
 
 export default function Landing() {
   return (
-    <div  className='font-serif md:h-[70vh] sm:h-[70vh]  bg-zinc-900 text-white pt-1 md:mt-40' data-scroll data-scroll-speed={-5}>
+    <div  className='font-serif md:h-[75vh] sm:h-[70vh]  bg-zinc-900 text-white pt-1 md:mt-40' data-scroll data-scroll-speed={-5}>
         <div  className='textSatructure font-serif sm:mt-28 px-10'>
             {["we create","eye-opening","presentations"].map((item,index)=>{
                 return  <div className='masker'>
